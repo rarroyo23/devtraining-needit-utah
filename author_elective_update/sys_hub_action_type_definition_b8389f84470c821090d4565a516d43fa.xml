@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>return_error</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Return Error</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:12:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8389f84470c821090d4565a516d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Return Error</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_b8389f84470c821090d4565a516d43fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:12:17</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=b8389f84470c821090d4565a516d43fa"/>
+    <sys_variable_value action="DELETE" query="document_key=b8389f84470c821090d4565a516d43fa"/>
+    <sys_hub_step_instance action="DELETE" query="action=b8389f84470c821090d4565a516d43fa"/>
+    <sys_hub_action_input action="DELETE" query="model=b8389f84470c821090d4565a516d43fa"/>
+    <sys_hub_action_output action="DELETE" query="model=b8389f84470c821090d4565a516d43fa"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=b8389f84470c821090d4565a516d43fa"/>
+    <sys_hub_action_status_metadata action="DELETE" query="action_type_id=b8389f84470c821090d4565a516d43fa"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_input_b8389f84470c821090d4565a516d43fa"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_input_b8389f84470c821090d4565a516d43fa"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_b8389f84470c821090d4565a516d43fa"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_output_b8389f84470c821090d4565a516d43fa"/>
+    <sys_hub_action_plan action="DELETE" query="action_id=b8389f84470c821090d4565a516d43fa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>483a7f6a1b5ef91432182f8dee4bcb40</instance_id>
+        <instance_name>dev207415</instance_name>
+        <name>sys_hub_action_type_definition_b8389f84470c821090d4565a516d43fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_status/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><ih_action>false</ih_action><internal_name>return_error</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Return Error</name><natlang/><outputs/><pre_compiled>false</pre_compiled><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-25 20:12:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b8389f84470c821090d4565a516d43fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Return Error</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_hub_action_type_definition_b8389f84470c821090d4565a516d43fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-25 20:12:17</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=b8389f84470c821090d4565a516d43fa"/><sys_variable_value action="delete_multiple" query="document_key=b8389f84470c821090d4565a516d43fa"/><sys_hub_step_instance action="delete_multiple" query="action=b8389f84470c821090d4565a516d43fa"/><sys_hub_action_input action="delete_multiple" query="model=b8389f84470c821090d4565a516d43fa"/><sys_hub_action_output action="delete_multiple" query="model=b8389f84470c821090d4565a516d43fa"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=b8389f84470c821090d4565a516d43fa"/><sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=b8389f84470c821090d4565a516d43fa"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_b8389f84470c821090d4565a516d43fa"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_b8389f84470c821090d4565a516d43fa"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_b8389f84470c821090d4565a516d43fa"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_b8389f84470c821090d4565a516d43fa"/><sys_hub_action_plan action="delete_multiple" query="action_id=b8389f84470c821090d4565a516d43fa"/></record_update>]]></payload>
+        <payload_hash>282930527</payload_hash>
+        <record_name>Return Error</record_name>
+        <reverted_from/>
+        <source>3221567b4777711090d4565a516d4334</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:12:17</sys_created_on>
+        <sys_id>0538df84470c821090d4565a516d4300</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d4240771b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:12:17</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>c5389f84b20c82105c590e041d1d03ff</update_guid>
+        <update_guid_history>c5389f84b20c82105c590e041d1d03ff:282930527</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 20:13:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>0060cc1818f2418680579f54bbac5fb1</sys_id>
+        <sys_metadata>b8389f84470c821090d4565a516d43fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Return Error</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_b8389f84470c821090d4565a516d43fa</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_b8389f84470c821090d4565a516d43fa">0538df84470c821090d4565a516d4300</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:13:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
